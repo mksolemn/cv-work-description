@@ -1,3 +1,5 @@
+https://github.com/mksolemn/user_management_system-demo-Angular4 - identity managements system for BBC content explorer. Dashboard to mange user roles. Bashboard has three user types: superadmin, admin, user. Each rolehas specific UI element displayed and has specific permissions.
+
 https://github.com/mksolemn/sortablejs-game - drag and drop game concept for betting, initially developed for eurovision, where user can select placing of 10 countries in Eurovision finals.Build using sortablejs;
 
 https://github.com/mksolemn/custom_lotteries - lottery widget using REST api and Handlebars js to render template;
