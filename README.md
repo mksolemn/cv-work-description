@@ -1,7 +1,9 @@
 # Tracking video statistics
 Experience with double click, conviva and adobe tag manager measurement and analytics platforms to track video, playlist and advertising data, usually using provided Javascript SDKs.
 
-|![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/conviva-ads.png?raw=true "Conviva")|![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/adobe-tag-manager.png?raw=true "Adobe Tag Manager")|![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/kaltura.png "Double Click")
+| Conviva | Adobe Tag Manager | Double Click |
+| --- | --- | --- |
+| ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/conviva-ads.png?raw=true "Conviva") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/adobe-tag-manager.png?raw=true "Adobe Tag Manager") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/kaltura.png "Double Click") |
 
 
 
