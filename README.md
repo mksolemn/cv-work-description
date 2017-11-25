@@ -4,7 +4,7 @@ Experience with double click, conviva and adobe tag manager measurement and anal
 
 | Conviva | Adobe Tag Manager | Double Click | Chromecast tracking | Kaltura |
 | --- | --- | --- | --- | --- |
-| ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/conviva-ads.png?raw=true "Conviva") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/adobe-tag-manager.png?raw=true "Adobe Tag Manager") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/google-double-click.png?raw=true "Double Click") | | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/chromecast.png?raw=true "Chromecast") | | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/kaltura.png  "Kaltura") |
+| ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/conviva-ads.jpg?raw=true "Conviva") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/adobe-tag-manager.jpg?raw=true "Adobe Tag Manager") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/google-double-click.jpg?raw=true "Double Click") | | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/chromecast.jpg?raw=true "Chromecast") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/kaltura.jpg  "Kaltura") |
 
 
 ## Project documentation
