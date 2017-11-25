@@ -4,12 +4,12 @@ Experience with double click, conviva and adobe tag manager measurement and anal
 
 | Conviva | Adobe Tag Manager | Double Click | Chromecast tracking | Kaltura |
 | --- | --- | --- | --- | --- |
-| ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/conviva-ads.jpg?raw=true "Conviva") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/adobe-tag-manager.jpg?raw=true "Adobe Tag Manager") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/google-double-click.jpg?raw=true "Double Click") | | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/chromecast.jpg?raw=true "Chromecast") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/kaltura.jpg  "Kaltura") |
+| ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/conviva-ads.jpg?raw=true "Conviva") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/adobe-tag-manager.jpg?raw=true "Adobe Tag Manager") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/google-double-click.jpg?raw=true "Double Click") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/chromecast.jpg?raw=true "Chromecast") | ![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/kaltura.jpg  "Kaltura") |
 
 
 ## Project documentation
 
-https://github.com/mksolemn/user_management_system-demo-Angular4 - identity managements system for BBC content explorer. Dashboard to mange user roles. Bashboard has three user types: superadmin, admin, user. Each rolehas specific UI element displayed and has specific permissions.
+https://github.com/mksolemn/user_management_system-demo-Angular4 - identity managements system for BBC content explorer. Dashboard to mange user roles. Dashboard has three user types: superadmin, admin, user. Each rolehas specific UI element displayed and has specific permissions.
 
 https://github.com/mksolemn/sortablejs-game - drag and drop game concept for betting, initially developed for eurovision, where user can select placing of 10 countries in Eurovision finals.Build using sortablejs;
 
