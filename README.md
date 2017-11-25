@@ -9,7 +9,7 @@ Experience with double click, conviva and adobe tag manager measurement and anal
 
 # Project documentation
 ## Angular4 projects
-![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/angular4-banner.jpeg  "Kaltura")
+![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/angular4-banner.png  "Kaltura")
 
 https://github.com/mksolemn/article_explorer_demo-Angular4 - article explorer, built with Angular4 and bootstrap;
 
