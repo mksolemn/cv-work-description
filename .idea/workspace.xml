@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9facea5d-710d-4b85-b2d7-39f91f5ac475" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/homepage-banner.jpg" afterPath="$PROJECT_DIR$/img/mrsbox-banner.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="472">
-              <caret line="44" column="110" lean-forward="false" selection-start-line="44" selection-start-column="110" selection-end-line="44" selection-end-column="110" />
+              <caret line="44" column="33" lean-forward="false" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -132,12 +131,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516123938195</updated>
-      <workItem from="1516123939385" duration="1883000" />
+      <workItem from="1516123939385" duration="1940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1883000" />
+    <option name="totallyTimeSpent" value="1940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1431" height="1047" extended-state="0" />
@@ -176,7 +175,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
-          <caret line="44" column="110" lean-forward="false" selection-start-line="44" selection-start-column="110" selection-end-line="44" selection-end-column="110" />
+          <caret line="44" column="33" lean-forward="false" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
           <folding />
         </state>
       </provider>

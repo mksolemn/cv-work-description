@@ -41,9 +41,7 @@ https://github.com/mksolemn/racebet - sidebar widget that filters races retrieve
 
 https://www.aunaturalecosmetics.com/ - front end development,CSS3 effects, javascript functionality;
 
-[The Mrs Box Store](http://themrsbox.com/)
 [![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/mrsbox-banner.jpg  "The Mrs Box")](http://themrsbox.com/)
-![alt text](https://github.com/mksolemn/cv-work-description/blob/master/img/mrsbox-banner.jpg  "The Mrs Box")
 [The Mrs Box Store](http://themrsbox.com/) - item combination selection functionality, product customization functionality, front end development. Widget to display preview images based on selected monogram font;
 
 https://www.campussuite.com/school-websites/themes/ - design and theme development;
